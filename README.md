@@ -1,2 +1,2 @@
 # Programs
-1st repo.
+this repo. consists of small projects and test programs.
